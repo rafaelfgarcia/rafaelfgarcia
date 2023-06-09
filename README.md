@@ -1,7 +1,7 @@
 # Sobre
-Olá! Me chamo **Rafael**, sou desenvolvedor  _full stack_. Dei meus primeiros passos na área de desenvolvimento ainda no ano de 2006. Participei de diversos projetos com destaque ao desenvolvimento de sites institucionais e portais para prefeituras e câmaras municipais.
+Olá! Meu nome é **Rafael** e sou um desenvolvedor _full stack_. Comecei minha jornada na área de desenvolvimento em 2006. Participei de vários projetos, destacando-se o desenvolvimento de sites institucionais e portais para prefeituras e câmaras municipais.
 
-Possuo graduação em engenharia elétrica e especialização em segurança da informação. Com relação as linguagens e tecnologias, tenho domínio e afinidade em:
+Tenho graduação em engenharia elétrica e especialização em segurança da informação. Em termos de linguagens e tecnologias, possuo domínio e afinidade nas seguintes áreas:
 
 -   Tríade Web
     -   HTML, CSS e JavaScript
@@ -9,14 +9,12 @@ Possuo graduação em engenharia elétrica e especialização em segurança da i
     -   Laravel, CodeIgniter e WordPress
 -   SQL
 
-Atualmente, além de trabalhos  _freelancer_, faço parte da equipe de desenvolvimento de uma sólida empresa de tecnologia do estado de Minas Gerais. Também leciono no ensino superior nos cursos de Engenharia Civil e Ciência da Computação.
+Atualmente, além de trabalhos como _freelancer_, faço parte da equipe de desenvolvimento de uma sólida empresa de tecnologia em Minas Gerais. Também sou professor no ensino superior no curso de Ciência da Computação.
 
-Sinta-se a vontade para entrar em  [contato](https://rafaelgarcia.dev/contato)  comigo, estou aberto para sugestões, contato comercial ou troca de figurinhas.
+Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, oportunidades comerciais ou troca de figurinhas.
 
-:link: [rafaelgarcia.dev](https://rafaelgarcia.dev)
+:link: [codigoforte.com.br](https://codigoforte.com.br)
 
 :mailbox_with_mail: rafaelfgarcia@ymail.com
-
-**Twitter:** [@dispopeia](https://twitter.com/dispopeia)
 
 **Linkedin:** [rafaelfgarcia](https://linkedin.com/in/rafaelfgarcia/)
