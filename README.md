@@ -13,8 +13,8 @@ Atualmente, além de trabalhos como _freelancer_, faço parte da equipe de desen
 
 Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, oportunidades comerciais ou troca de figurinhas.
 
-:link: [codigoforte.com.br](https://codigoforte.com.br)
+🔗: [codigoforte.com.br](https://codigoforte.com.br)
 
-:mailbox_with_mail: rafaelfgarcia@ymail.com
+📬: rafaelfgarcia@ymail.com
 
 **Linkedin:** [rafaelfgarcia](https://linkedin.com/in/rafaelfgarcia/)
