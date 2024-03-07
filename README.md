@@ -1,3 +1,5 @@
-# Olá!
+# E ai filhão, só nos compiuter!
 
-🔗 [https://rafael.fun](https://rafael.fun)
+🔗 [rafael.fun](https://rafael.fun)
+
+💻 [codigoforte.com.br](https://codigoforte.com.br)
