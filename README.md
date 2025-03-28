@@ -16,7 +16,7 @@ Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, op
 
 ## // Contato
 
-🔗 [rafael.fun](https://rafael.fun)
+🔗 [rafae.lt](https://rafae.lt)
 
 🔗 [codigoforte.com.br](https://codigoforte.com.br)
 
