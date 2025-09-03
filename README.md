@@ -4,7 +4,7 @@ Iniciei minha jornada na área de desenvolvimento _web_ em 2006, participando de
 
 Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, oportunidades comerciais ou troca de figurinhas.
 
-📬 codigoforte@hotmail.com
+📬 rafael@codigoforte.com.br
 
 ## 🔗 Links
 
@@ -12,8 +12,4 @@ Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, op
 
 🎓 [**Lattes**](http://lattes.cnpq.br/4056670559510809)
 
-👨‍💻 [**GitHub**](https://github.com/rafaelfgarcia)
-
-🙋🏻‍♂️ [**rafae.lt**](https://rafae.lt)
-
-💼 [**codigoforte.com.br**](https://codigoforte.com.br)
+🎯 [**codigoforte.com.br**](https://codigoforte.com.br)
