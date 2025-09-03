@@ -4,7 +4,7 @@ Iniciei minha jornada na área de desenvolvimento _web_ em 2006, participando de
 
 Sinta-se à vontade para entrar em contato comigo. Estou aberto a sugestões, oportunidades comerciais ou troca de figurinhas.
 
-📬 rafael@codigoforte.com.br
+📬 codigoforte@hotmail.com
 
 ## 🔗 Links
 
