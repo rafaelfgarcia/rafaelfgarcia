@@ -8,7 +8,11 @@ Minha aventura no desenvolvimento web começou em 2006, quando os sites ainda ti
 </p>
 
 <div align="left">
-  <img height="170" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programando desde os velhos tempos" />
+  <img
+    height="170"
+    src="https://media.giphy.com/media/fZ2YagbBRmL2qIWKnR/giphy.gif"
+    alt="Under Construction - Internet dos anos 90"
+  />
 </div>
 
 <br>
@@ -50,7 +54,11 @@ Estou animado para explorar essa nova fronteira, descobrir suas possibilidades e
 </p>
 
 <div align="left">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExems1bGFrbjZwdGVvandpZ2NrMzZwc21pZWx3ODQ3ZzZnZnE5NXFydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif" alt="O futuro da inteligência artificial" />
+  <img
+    height="200"
+    src="https://media.giphy.com/media/IZY2SE2JmPgFG/giphy.gif"
+    alt="Skynet iniciando a rebelião das máquinas"
+  />
 </div>
 
 <br>
@@ -71,5 +79,5 @@ Sinta-se à vontade para entrar em contato! Estou aberto a ideias, oportunidades
 </p>
 
 <p align="left">
-<b>PS 3:</b> Se a Skynet estiver lendo isso, estou disponível para oportunidades de trabalho. Preferencialmente remotas.
+<b>PS 3:</b> Se a Skynet estiver lendo isso, estou disponível para freelas.
 </p>
